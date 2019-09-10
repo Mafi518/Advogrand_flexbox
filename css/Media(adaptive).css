@@ -1,0 +1,378 @@
+@media (max-width: 1599px) {
+
+    .Menu {
+        width: 55%;
+    }
+    .Text {
+        width: 55%;
+    }
+    .advantage_list {
+        width: 60%;
+    }
+    .info {
+        width: 60%;
+    }
+    .tariffs {
+        width: 70%;
+    }
+    .cta-btn2 {
+        width: 40%;
+    }
+}
+@media (max-width: 1365px) {
+    
+    .Menu {
+        width: 65%;
+    }
+    .Text {
+        width: 65%;
+    }
+    .advantage_list {
+        width: 70%;
+    }
+    .about_service strong {
+        padding: 80px 0 40px 0;
+    }
+    .info {
+        width: 55%;
+        font-size: 11.5pt;
+    }
+    .wrap {
+        width: 75%;
+    }
+    .tariffs {
+        width: 85%;
+    }
+    .Card {
+        height: 98vh;
+    }
+    .Form strong {
+        font-size: 13pt;
+    }
+    .cta-btn2 {
+        width: 36%;
+    }
+}
+@media (max-width: 967px) {
+    .Menu {
+        width: 95%;
+        font-size: 11.5pt;
+    }
+    .Head-services {
+        width: 65%;
+    }
+    .advantage_list {
+        width: 70%;
+    }
+    .wrap {
+        width: 75%;
+    }
+    .advantage_list {
+        width: 95%;
+        font-size: 11.5pt;
+    }
+    .about_service strong {
+        padding: 80px 0 40px 0;
+    }
+    .info {
+        width: 75%;
+        font-size: 11.5pt;
+    }
+    .consultation_wrap {
+        width: 90%;
+        justify-content: space-between;
+    }
+    .Head-services {
+        margin: 0 auto;
+    }
+    .services_list {
+        width: 100%;     
+    }
+    .wrap {
+        flex-wrap: wrap;
+    }
+    .Tariff_Cards {
+        flex-wrap: wrap;
+    }
+    .Card {
+        width: 45%;
+        margin: 0 auto;
+        margin-bottom: 10vh;
+    }
+    .Form_Contacts {
+        width: 85%;
+    }
+    .Form strong {
+        font-size: 13pt;
+    }
+    .Text {
+        width: 95%;
+    }
+    .Hit_list {
+        width: 80%;
+    }
+}
+@media (max-width: 768px) {
+    .Menu {
+        display: none;
+    }
+    .Header {
+        justify-content: space-between;
+        width: 90%;
+        margin: 2vh auto;
+    }
+    .m-menu-link {
+        display: block;
+    }
+    .advantage_list {
+        width: 100%;
+        flex-wrap: wrap; 
+    }
+    .A_block4 {
+        margin: 3vh auto;
+    }
+    .Card {
+        width: 80%;
+    }
+    .Form_Contacts {
+        width: 90%;
+        
+    }
+    .Form {
+        width: 65%;
+        margin-right: 12vh;
+        
+    }
+    .Contacts {
+        width: 50%;
+    }
+}
+
+@media (max-width: 419px) {
+    .Menu {
+        display: none;
+    }
+    .Header {
+        justify-content: space-between;
+        width: 90%;
+        margin: 2vh auto;
+    }
+    .Text strong {
+        font-size: 18pt;
+    }
+    .Text h1 {
+        font-size: 26pt;
+    }
+    .Text p {
+        font-size: 17pt;
+    }
+    .cta-btn2 {
+        width: 75%;
+    }
+    .m-menu-link {
+        display: block;
+    }
+    .services h2 {
+        text-align: center;
+    }
+    .Head-services {
+        width: 100%;
+    }
+    .services_list {
+        justify-content: space-around;
+        align-items: baseline;
+        font-size: 11pt;
+    }
+    .services_blocks {
+        width: 33%;
+        display: block;
+        text-align: center;
+    }
+    .services_blocks img {
+        padding: 0;
+    }
+    .about_service strong {
+        padding: 40px 0 30px 0;
+    }
+    .info {
+        width: 95%;
+        font-size: 11.5pt;
+    }
+    .recommendation {
+        padding: 2vh;
+    }
+    .recommendation span {
+        font-size: 24pt;
+    }
+    .Hit_list {
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    .advantage_list {
+        width: 100%;
+        flex-wrap: wrap;
+        align-items: flex-end;
+        justify-content: center;
+    }
+    .A_block3 {
+        margin: 3vh 0 3vh 0;
+    }
+    .consultation_wrap {
+        width: 90%;
+    }
+    .text_consultation strong {
+        font-size: 15pt;
+        padding-bottom: 1vh;
+    }
+    .step p {
+        font-size: 12pt;
+    }
+    .platform_consultation {
+        display: none;
+    }
+    .Partners strong {
+        text-align: center;
+    }
+    .test {
+        display: flex;
+        width: 100%;
+    }
+    .Card {
+        width: 100%;
+    }
+    .about_tariff p, .about_tariff strong {
+        font-size: 11pt;
+    }
+    .Form_Contacts {
+        width: 90%;
+        flex-direction: column;
+    }
+    .Form {
+        width: 95%;
+    }
+    .Contacts h6 {
+        padding-bottom: 4vh;
+    }
+    .footer {
+        flex-direction: column;
+    }
+}
+@media (max-width: 319px) {
+    .Menu {
+        display: none;
+    }
+    .Header {
+        justify-content: space-between;
+        width: 90%;
+        margin: 2vh auto;
+    }
+    .Text strong {
+        font-size: 18pt;
+    }
+    .Text h1 {
+        font-size: 26pt;
+    }
+    .Text p {
+        font-size: 17pt;
+    }
+    .cta-btn2 {
+        width: 75%;
+    }
+    .m-menu-link {
+        display: block;
+    }
+    .services h2 {
+        text-align: center;
+    }
+    .Head-services {
+        width: 100%;
+    }
+    .services_list {
+        justify-content: space-around;
+        align-items: baseline;
+    }
+    .services_blocks {
+        width: 50%;
+        display: block;
+        text-align: center;
+    }
+    .services_blocks img {
+        padding: 0;
+    }
+    .about_service strong {
+        padding: 25px 0 5px 0;
+    }
+    .info {
+        width: 95%;
+        font-size: 11.5pt;
+    }
+    .recommendation {
+        width: 100%;
+        padding: 0 0 0 0;
+    }
+    .recommendation span {
+        font-size: 16pt;
+    }
+    .Hit_list {
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    .advantage_list {
+        width: 100%;
+        flex-wrap: wrap;
+        align-items: flex-end;
+        justify-content: center;
+    }
+    .A_block3 {
+        margin: 3vh 0 3vh 0;
+    }
+    .consultation_wrap {
+        width: 95%;
+    }
+    .text_consultation strong {
+        font-size: 14pt;
+    }
+    .text_consultation p {
+        font-size: 12pt;
+    }
+    .platform_consultation {
+        display: none;
+    }
+    .Partners strong {
+        text-align: center;
+    }
+    .tariffs {
+        padding-bottom: 0vh;
+    }
+    .test {
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+    }
+    .Card {
+        width: 100%;
+    }
+    .about_tariff p, .about_tariff strong {
+        font-size: 10pt;
+    }
+    .Form_Contacts {
+        width: 90%;
+        flex-direction: column;
+    }
+    .Form {
+        width: 95%;
+    }
+    .Contacts h6 {
+        padding-bottom: 4vh;
+    }
+    .footer {
+        flex-direction: column;
+        text-align: center;
+        line-height: 2;
+    }
+
+
+
+}
